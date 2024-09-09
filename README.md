@@ -1,1 +1,2 @@
-# Spell-Checker
+# Spelling Verifier
+### 
