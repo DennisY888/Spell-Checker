@@ -16,4 +16,4 @@
 ### Metrics
 WORDS IN DICTIONARY:  143091  
 WORDS IN TEXT:        904612  
-TIME IN TOTAL(s):        0.39
+TIME IN TOTAL:        0.39s
