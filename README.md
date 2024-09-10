@@ -14,6 +14,6 @@
 - “make speller” 
 - “./speller [text]”
 ### Metrics
-WORDS IN DICTIONARY:  143091
-WORDS IN TEXT:        904612
+WORDS IN DICTIONARY:  143091  
+WORDS IN TEXT:        904612  
 TIME IN TOTAL(s):        0.39
